@@ -1,0 +1,8 @@
+var = 50
+var2 = "Hola Mundo"
+var3 = "True"
+var4 = 30.
+var5 = "Tal vez" + "Sirva" + 0
+servirá = "true"
+año = 2023
+var_paren = 123 + -(456 / -2)
